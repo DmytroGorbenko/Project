@@ -1,1 +1,2 @@
-some stuff to do the second commit in main brunch
+some stuff to do the second commit in main branch
+some stuff to do the fisrt commit in new branch
